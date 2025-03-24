@@ -1,0 +1,15 @@
+{
+  "name": "setup-professional-project-practise-07",
+  "version": "1.0.0",
+  "description": "How to professionally setup your Backend Project according to Industry Standards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "setup"
+  ],
+  "author": "Usman Hameed",
+  "license": "ISC"
+}
